@@ -1,0 +1,4 @@
+N,Channels per cell C,Max offered traffic per cell (Erl),Max carried traffic per cell (Erl),Trunking efficiency,Users per cell,Users in 84-cell system,Monte-Carlo blocking
+4,75,60.728,60.12,0.8016,1518,127512,0.0103
+12,25,16.125,15.963,0.6385,403,33852,0.01
+13,23,14.47,14.326,0.6229,361,30324,0.00985
